@@ -1,0 +1,48 @@
+ 一、非谓语动词种类及句法功能
+（一）概述：
+       在英语中，不作句子谓语，而具有除谓语外其他语法功能的动词，叫做非谓语动词。非谓语动词有动词不定式（the Infinitive）；动名词（the Gerund）；现在分词（the Present Participle）；过去分词（the Past Participle）。
+       1、非谓语动词与谓语动词的相同点有：
+       1）如果是及物动词都可与宾语连用，例如：
+       They built a garden.
+       They suggested building a garden.
+       2）都可以被状语修饰：
+       The suit fits him very well.
+       The suit used to fit him very well.
+       3）都有主动与被动, “体”式（一般式；进行式；完成式）的变化。例如：
+       He was punished by his parents.（谓语动词被动语态）
+       He avoided being punished by his parents.（动名词的被动式）
+       We have written the composition.（谓语动词的完成时）
+       Having written the composition, we handed it in.（现在分词的完成式）
+       4）都可以有逻辑主语
+       They started the work at once.（谓语动词的逻辑主语）
+       The boss ordered them to start the work.（动词不定式的逻辑主语）
+       We are League members.（谓语动词的主语）
+       We being League member, the work was well done.（现在分词的逻辑主语）
+       2、非谓语动词与谓语动词的不同点有：
+       1）非谓语动词可以有名词作用（如动词不定式和动名词），在句中做主语、宾语、表语。
+       2）非谓语动词可以有形容词作用（如动词不定式和分词），在句中做定语、表语或宾语补足语。
+       3）非谓语动词可以有副词作用（如动词不定式和分词），在句中作状语。
+二、非谓语动词用法：
+（一）动词不定式：（to）+do，具有名词、形容词、副词的特征。
+       1、不定式的形式：
+
+
+ 		主    动	       被       动
+一般式	to write	to be written
+进行式	to be writing	/
+完成式	to have written	to have been written
+       否定式：not + (to) do
+       1）一般式：不定式的一般式所表示的动作与谓语动词动作同时发生或发生在谓语动词动作之后，例如：
+       I’m glad to meet you.
+       He seems to know a lot.
+       We plan to pay a visit.
+       He wants to be an artist.
+       The patient asked to be operated on at once.
+       The teacher ordered the work to be done.
+       2）进行式：不定式的进行式所表示的动作与谓语动词动作同时发生，例如：
+       The boy pretended to be working hard.
+       He seems to be reading in his room.
+       3）完成式：不定式的完成式表示的动作发生在谓语动词动作之前，例如：
+       I regretted to have told a lie.
+       I happened to have seen the film.
+       He is pleased to have met his friend.
