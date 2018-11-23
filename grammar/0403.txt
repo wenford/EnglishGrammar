@@ -1,0 +1,21 @@
+虚拟语气在宾语从句中的用法。
+ （1）在动词wish后的宾语从句中，表示与现在或过去的事实相反，或对将来的主观愿望，从句通常省略连词that。
+  a.表示对现在情况的虚拟：从句动词用过去式或过去进行式(be的过去式用were )表示。如： 
+  I wish I knew the answer to the question.  我希望知道这个问题的答案。（可惜不知道。）
+  I wish it were spring in my hometown all the year around.但愿我的家乡四季如春。（只是愿望，实际根本不可能实现。）
+  b.表示对过去情况的虚拟：从句动词用 had+过去分词。如：
+I wish (that) I hadn’t wasted so much time. 我后悔不该浪费这么多时间。（实际上已经浪费掉了。）
+  He wishes (wished) he hadn’t lost the chance. 他真希望没有失去机会。（事实上机会已经失去了，他感到惋惜。）
+  c.表示对将来的主观愿望：谓语动词形式为 “would/should/could/might+动词原形”，此时要注意，主句的主语与从句的主语不能相同，因为主句的主语所期望的从句动作能否实现，取决于从句主语的态度或意愿（非动作名词除外）。如：
+  I wish it would stop raining.但愿雨能停止。
+ I wish you would be quiet.我希望你安静一些。
+
+（2）在suggest（建议）, demand(要求), order(命令), propose(建议), insist（坚持要做）, command(命令), request(要求), desire(希望)等动词后的宾语从句中，谓语动词用 “(should)+动词原形”，表示建议，要求，命令等。如：
+ I suggest that we (should) start the meeting at once.我建议马上开会。
+ The undergraduate insisted that he (should) go to work in  the south.这位即将毕业的学生坚持要到南方去工作。
+ 
+注：  当suggest表示暗示，主语为something；insist表示坚持观点时，后接的宾语从句当用真实语气。比较：
+  His silence suggested that he agreed with my  decision.他的沉默暗示着他赞成我的决定。
+  He suggested that I (should) stick to my decision.他建议我坚持自己的决定。
+He insists that doing morning exercises does good to  people’s health. 他坚持认为做早操对健康有益。
+  He insists that he (should) do morning exercises every  day.他坚持他每天都要早操

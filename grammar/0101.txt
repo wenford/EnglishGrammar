@@ -1,0 +1,53 @@
+关系代词引导的定语从句
+关系代词在从句中充当主语、宾语、定语（whose, which）。表示人时用who（主格/宾格）, whom（宾格，也就是动词或介词的宾语）, that, whose（所有格）；表示物时用which, that, whose。（注意that和whose既可表人也可表物），另外which可以指代前面整个句子；注意，介词后宾语表人用whom，表物用which，若是表所有格，用whose。
+特别注意：what不能引导定语从句，只能引导名词性从句。
+
+我们来看以下几个例句：
+The girl who/that is standing at the gate is an English teacher. 
+(who或that作从句的主语, 表人)
+That’s not Tom who/that is sitting next to John. (who或that作从句的主语, 表人)
+=That’s not Tom. Tom is sitting next to John.
+The girl whom/who/that Peter is talking to is a teacher. (whom作从句宾语,表人)
+The girl to whom Peter is talking is a teacher. (介词可以前置)
+The girl to who/that× Peter is talking to is a teacher.×
+（当介词前置时，表人只能用whom）
+(人) The girl (whose mother is a nurse) is a teacher. 
+(whose与它所修饰的名词一起构成一个名词短语在从句中担当成分)
+(物) The book (whose cover is missing) is very funny. (不可分割的一部分, 指物时可用of which来代替)
+        = The book, the cover of which is missing, is very funny.
+   The room (whose door faces south) is very bright. (物质所属)
+       = The room, the door of which faces south, is very bright.
+The book (which/that belongs to me) is missing.（which/that作从句主语，表物）
+I don't like the novel (that/which you are reading). 
+(that/which作从句动词的宾语，表物)
+
+which的特殊用法
+He was late for school again, which made the teacher very angry. (which指代前面整个句子，作从句的主语)。
+He advised me to hide behind the door, which advice I took at once. (which作定语)
+She had a little money in the bank, with which to help her mother. (which与不定式连用，构成定语短语)
+
+介词+关系代词例句（包括介词前置）：
+
+注意介词的选择，要根据从句来确定，不能受主句影响！
+This is the room in which I live.
+先行词room在从句中要加上介词in作地点状语，也就是作in的宾语。从句还原应该是I live in the room.
+此句也可以转换成：This is the room which I live in.
+I have paid for the house in which he lived.
+注意此句不能用for which，分析此句时，先确定先行词the house，其次确定the house或which在从句中要加介词in作状语。不能受主句中the house前介词for的影响。
+The man (to whom you talked just now) will chair the meeting tomorrow.
+= The man (whom/who you talked to just now) will chair the meeting tomorrow.
+He told me the tickets are hard to buy, in which case you’d better buy right now.
+(which作case的定语)
+He told me the tickets are hard to buy, and you’d better buy right now in that case.
+The books, some of which he has read, are very interesting. 表示整体与部分关系
+The books are very interesting and he has read some of the book.
+The students, most of whom have seen the movie, are from our class.
+The students are from our class and most of them have seen the movie.
+He spent 2 hours there, during which time he slept.
+He spent 2 hours there and he slept during that time.
+The boss in whose department Mr. King worked had a heart attack.
+The boss had a heart attack.  Mr. King worked in his department.
+
+但注意，在固定短语中介词不能提前，比如：care for, call on, put off, listen to, look for, look after等，如果把它们拆开，那么这些短语就失去了原来的含意。
+The old man whom I am looking after is better.
+

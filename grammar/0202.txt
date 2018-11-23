@@ -1,0 +1,28 @@
+同位从句
+与先行词同位或同等的从句称为同位语从句，具体说明先行词的内容。同位语从句就是在复合句中作名词的同位语的名词性从句。
+同位语从句usage and example
+　同位语从句对于名词进一步解释，说明名词的具体内容，一般由that引导
+1. He accepted the fact that she would never come back.
+2. She came to the conclusion that she must act at once.
+3. I have no doubt that you were telling the truth.
+4. Do you have any ideas where we can get cheaper secondhand car?
+5. Nobody can explain the mystery why he suddenly disappeared.
+
+注意：
+同位语前的先行词通常为news, fact, doubt, conclusion, hope, decision, belief, promise, truth, report, idea, possibility, opinion, proof, message, impression, evidence, feeling, thought, story, order等等
+用正常的陈述语气
+有时与前面的先行词分开
+Word came that the enemies had got to he foot of the mountain.
+His dream came true that he would become a world famous footballer.
+同位语从句与定语从句的区别
+位语从句中that只起连接作用，在从句中不充当任何成分，定语从句中that是关系代词，除了连接主句与从句外，还在从句中充当主语或宾语
+This is the truth that he told me.
+This is the truth that he is the right man for the job.
+位语从句中先行词去掉后不影响句子的理解；而定语从句先行词不能去掉。
+I believe the fact that he was honest.
+= I believe that he was honest.
+I believe the fact he thought to be true.
+I believe he thought to be true,
+同位语从句中先行词是表示抽象概念的词，而定语从句中的先行词可以是表抽象或具体概念的词
+同位语从句中的that不能省略，而定语从句中的that在从句中作宾语时可省略
+
