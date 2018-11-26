@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>1. 名词</key>
+	<array>
+		<string>1.0 名词简介</string>
+		<string>1.1 名词复数的规则变化</string>
+		<string>1.2 其它名词复数的规则变化</string>
+		<string>1.3 名词复数的不规则变化</string>
+		<string>1.4 不可数名词量的表示</string>
+		<string>1.5 定语名词的复数</string>
+		<string>1.6 不同国家的人的单复数</string>
+		<string>1.7 名词的格</string>
+	</array>
+	<key>10. 独立主格</key>
+	<array>
+		<string>10.1 独立主格</string>
+		<string>10.2 With的复合结构作独立主格</string>
+	</array>
+	<key>11. 动词的时态</key>
+	<array>
+		<string>11.1 一般现在时的用法</string>
+		<string>11.2 一般过去时的用法</string>
+		<string>11.3 used to / be used to</string>
+		<string>11.4 一般将来时</string>
+		<string>11.5 be going to / will</string>
+		<string>11.6 be to和be going to</string>
+		<string>11.7 一般现在时表将来</string>
+		<string>11.8 用现在进行时表示将来</string>
+		<string>11.9 现在完成时</string>
+		<string>11.10 比较过去时与现在完成时</string>
+		<string>11.11 用于现在完成时的句型</string>
+		<string>11.12 比较since和for</string>
+		<string>11.13 since的四种用法</string>
+		<string>11.14 延续动词与瞬间动词</string>
+		<string>11.15 过去完成时</string>
+		<string>11.16 用一般过去时代替完成时</string>
+		<string>11.17 将来完成时</string>
+		<string>11.18 现在进行时</string>
+		<string>11.19 不用进行时的动词</string>
+		<string>11.20 过去进行时</string>
+		<string>11.21 将来进行时</string>
+		<string>11.22 一般现在时代替将来时</string>
+		<string>11.23 一般现在时代替过去时</string>
+		<string>11.24 一般现在时代替完成时</string>
+		<string>11.25 一般现在时代替进行时</string>
+		<string>11.26 现在进行时代替将来时</string>
+		<string>11.27 时态一致</string>
+		<string>11.28 时态与时间状语</string>
+	</array>
+	<key>12. 动词的语态</key>
+	<array>
+		<string>12.0 动词的语态简介</string>
+		<string>12.1 let 的用法</string>
+		<string>12.2 短语动词的被动语态</string>
+		<string>12.3 表示"据说"或"相信" 的词组</string>
+		<string>12.4 不用被动语态的情况</string>
+		<string>12.5 主动形式表示被动意义</string>
+		<string>12.6 被动形式表示主动意义</string>
+		<string>12.7 need/want/require/worth</string>
+	</array>
+	<key>13. 句子的种类</key>
+	<array>
+		<string>13.0 句子的种类简介</string>
+		<string>13.1 祈使句结构</string>
+		<string>13.2 感叹句结构</string>
+		<string>13.3 强调句结构</string>
+		<string>13.4 用助动词进行强调</string>
+		<string>13.5 反意疑问句</string>
+	</array>
+	<key>14. 倒装</key>
+	<array>
+		<string>14.1 倒装句之全部倒装</string>
+		<string>14.2 倒装句之部分倒装</string>
+		<string>14.3 以否定词开头作部分倒装</string>
+		<string>14.4 so, neither, nor作部分倒装</string>
+		<string>14.5 only在句首要倒装的情况</string>
+		<string>14.6 as, though 引导的倒装句</string>
+		<string>14.7 其他部分倒装</string>
+	</array>
+	<key>15. 主谓一致</key>
+	<array>
+		<string>15.0 主谓一致简介</string>
+		<string>15.1 并列结构作主语时谓语用复数</string>
+		<string>15.2 主谓一致中的靠近原则</string>
+		<string>15.3 谓语动词与前面的主语一致</string>
+		<string>15.4 谓语需用单数</string>
+		<string>15.5 指代意义决定谓语的单复数</string>
+		<string>15.6 与后接名词或代词保持一致</string>
+	</array>
+	<key>16. 虚拟语气</key>
+	<array>
+		<string>16.0 虚拟语气简介</string>
+		<string>16.1 真实条件句</string>
+		<string>16.2 非真实条件句</string>
+		<string>16.3 混合条件句</string>
+		<string>16.4 虚拟条件句的倒装</string>
+		<string>16.5 特殊的虚拟语气词：should</string>
+		<string>16.6 wish的用法</string>
+		<string>16.7 比较if only与only if</string>
+		<string>
+16.8 It is (high) time that</string>
+		<string>16.9 need "不必做"和"本不该做"</string>
+	</array>
+	<key>17. 名词性从句</key>
+	<array>
+		<string>17.0 名词性从句简介</string>
+		<string>17.1 引导名词性从句的连接词</string>
+		<string>17.2 名词性that-从句</string>
+		<string>17.3 名词性wh-从句</string>
+		<string>17.4 if, whether引导的名词从句</string>
+		<string>17.5 否定转移</string>
+	</array>
+	<key>18. 定语从句</key>
+	<array>
+		<string>18.0 定语从句简介</string>
+		<string>18.1 关系代词引导的定语从句</string>
+		<string>18.2 关系副词引导的定语从句</string>
+		<string>18.3 判断关系代词与关系副词</string>
+		<string>18.4 限制性和非限制性定语从句</string>
+		<string>18.5 介词+关系词</string>
+		<string>18.6 as, which 非限定性定语从句</string>
+		<string>18.7 先行词和关系词二合一</string>
+		<string>18.8 what/whatever;that/what; who/whoever</string>
+		<string>18.9 关系代词that 的用法</string>
+	</array>
+	<key>19. 状语从句</key>
+	<array>
+		<string>19.1 地点状语从句</string>
+		<string>19.2 方式状语从句</string>
+		<string>19.3 原因状语从句</string>
+		<string>19.4 目的状语从句</string>
+		<string>19.5 结果状语从句</string>
+		<string>19.6 条件状语从句</string>
+		<string>19.7 让步状语从句</string>
+		<string>19.8 比较while, when, as</string>
+		<string>19.9 比较until和till</string>
+		<string>19.10 表示"一…就…"的结构</string>
+	</array>
+	<key>2. 冠词和数词</key>
+	<array>
+		<string>2.1 不定冠词的用法</string>
+		<string>2.2 定冠词的用法</string>
+		<string>2.3 零冠词的用法</string>
+		<string>2.4 冠词与形容词+名词结构</string>
+		<string>2.5 冠词位置</string>
+		<string>2.6 数词</string>
+	</array>
+	<key>20. 连词</key>
+	<array>
+		<string>20.0 连词简介</string>
+		<string>20.1 并列连词与并列结构</string>
+		<string>20.2 比较and和or</string>
+		<string>20.3 表示选择的并列结构</string>
+		<string>20.4 表示转折或对比</string>
+		<string>20.5 表原因关系</string>
+		<string>20.6 比较so和such</string>
+	</array>
+	<key>21. 情态动词</key>
+	<array>
+		<string>21.1 情态动词的语法特征</string>
+		<string>21.2 比较can 和be able to</string>
+		<string>21.3 比较may和might</string>
+		<string>21.4 比较have to和must</string>
+		<string>21.5 must表示推测</string>
+		<string>21.6 表示推测的用法</string>
+		<string>21.7 情态动词+ have +过去分词</string>
+		<string>21.8 should 和ought to</string>
+		<string>21.9 had better表示"最好"</string>
+		<string>21.10 would rather表示"宁愿"</string>
+		<string>21.11 will和would</string>
+		<string>21.12 情态动词的回答方式</string>
+		<string>21.13 带to 的情态动词</string>
+		<string>21.14 比较need和dare</string>
+	</array>
+	<key>3. 代词</key>
+	<array>
+		<string>3.0 代词简介</string>
+		<string>3.1 人称代词的用法</string>
+		<string>3.2 人称代词之主、宾格的替换</string>
+		<string>3.3 代词的指代问题</string>
+		<string>3.4 并列人称代词的排列顺序</string>
+		<string>3.5 物主代词</string>
+		<string>3.6 双重所有格</string>
+		<string>3.7 反身代词</string>
+		<string>3.8 相互代词</string>
+		<string>3.9 指示代词</string>
+		<string>3.10 疑问代词</string>
+		<string>3.11 关系代词</string>
+		<string>3.12 every , no, all, both, neither, nor</string>
+		<string>3.13 none, few, some, any, one, ones</string>
+		<string>3.14 代词比较辩异 one，that 和it</string>
+		<string>3.15 one/another/the other</string>
+		<string>3.16 “the”的妙用</string>
+		<string>3.17 anyone/any one；no one/none；every/each</string>
+		<string>3.18 both, either, neither, all, any, none</string>
+		<string>3.19 many, much</string>
+		<string>3.20 few, little, a few, a little</string>
+	</array>
+	<key>4. 形容词和副词</key>
+	<array>
+		<string>4.1 形容词及其用法</string>
+		<string>4.2 以-ly结尾的形容词</string>
+		<string>4.3 用形容词表示类别和整体</string>
+		<string>4.4 多个形容词修饰名词的顺序</string>
+		<string>4.5 副词及其基本用法</string>
+		<string>4.6 兼有两种形式的副词</string>
+		<string>4.7 形容词与副词的比较级</string>
+		<string>4.8 as + 形容词或副词原级 + as</string>
+		<string>4.9 比较级形容词或副词 + than</string>
+		<string>4.10 可修饰比较级的词</string>
+		<string>4.11 many,old 和 far</string>
+		<string>4.12 the + 最高级 + 比较范围</string>
+		<string>4.13 和more有关的词组</string>
+	</array>
+	<key>5. 动词</key>
+	<array>
+		<string>5.0 动词简介</string>
+		<string>5.1 系动词</string>
+		<string>5.2 什么是助动词</string>
+		<string>5.3 助动词be的用法</string>
+		<string>5.4 助动词have的用法</string>
+		<string>5.5 助动词do 的用法</string>
+		<string>5.6 助动词shall和will的用法</string>
+		<string>5.7 助动词should,would的用法</string>
+		<string>5.8 短语动词</string>
+		<string>5.9 非谓语动词</string>
+	</array>
+	<key>6. 动名词</key>
+	<array>
+		<string>6.1 动名词作主语、宾语和表语</string>
+		<string>6.2 worth 的用法</string>
+	</array>
+	<key>7. 动词不定式</key>
+	<array>
+		<string>7.1 不定式作宾语</string>
+		<string>7.2 不定式作补语</string>
+		<string>7.3 不定式主语</string>
+		<string>7.4 It's for sb.和 It's of sb.</string>
+		<string>7.5 不定式作表语</string>
+		<string>7.6 不定式作定语</string>
+		<string>7.7 不定式作状语</string>
+		<string>7.8 用作介词的to</string>
+		<string>7.9 省to 的动词不定式</string>
+		<string>7.10 动词不定式的否定式</string>
+		<string>7.11 不定式的特殊句型too…to…</string>
+		<string>7.12 不定式的特殊句型so as to</string>
+		<string>7.13 不定式的特殊句型Why not</string>
+		<string>7.14 不定式的时态和语态</string>
+		<string>7.15 动名词与不定式</string>
+	</array>
+	<key>8. 特殊词精讲</key>
+	<array>
+		<string>8.1 stop doing/to do</string>
+		<string>8.2 forget doing/to do</string>
+		<string>8.3 remember doing/to do</string>
+		<string>8.4 regret doing/to do</string>
+		<string>8.5 cease doing/to do</string>
+		<string>8.6 try doing/to do</string>
+		<string>8.7 go on doing/to do</string>
+		<string>8.8 be afraid doing/to do</string>
+		<string>8.9 be interested doing/to do</string>
+		<string>8.10 mean to doing/to do</string>
+		<string>8.11 begin(start) doing/to do</string>
+		<string>8.12 感官动词 + doing/to do</string>
+	</array>
+	<key>9. 分词</key>
+	<array>
+		<string>9.1 分词作定语</string>
+		<string>9.2 分词作状语</string>
+		<string>9.3 连词+分词(短语)</string>
+		<string>9.4 分词作补语</string>
+		<string>9.5 分词作表语</string>
+		<string>9.6 分词作插入语</string>
+		<string>9.7 分词的时态</string>
+		<string>9.8 分词的语态</string>
+	</array>
+</dict>
+</plist>

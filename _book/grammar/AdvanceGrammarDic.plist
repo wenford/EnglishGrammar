@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>1. 定语从句</key>
+	<array>
+		<string>定语从句 一</string>
+		<string>定语从句 二</string>
+		<string>定语从句 三</string>
+		<string>定语从句 四</string>
+		<string>定语从句 五</string>
+		<string>定语从句 六</string>
+		<string>定语从句 七</string>
+	</array>
+	<key>2. 名词性从句</key>
+	<array>
+		<string>名词性从句 一</string>
+		<string>名词性从句 二</string>
+		<string>名词性从句 三</string>
+		<string>名词性从句 四</string>
+	</array>
+	<key>3. 非谓语动词</key>
+	<array>
+		<string>非谓语动词 一</string>
+		<string>非谓语动词 二</string>
+		<string>非谓语动词 三</string>
+		<string>非谓语动词 四</string>
+		<string>非谓语动词 五</string>
+		<string>非谓语动词 六</string>
+		<string>非谓语动词 七</string>
+		<string>非谓语动词 八</string>
+	</array>
+	<key>4. 虚拟语气</key>
+	<array>
+		<string>虚拟语气 一</string>
+		<string>虚拟语气 二</string>
+		<string>虚拟语气 三</string>
+		<string>虚拟语气 四</string>
+		<string>虚拟语气 五</string>
+		<string>虚拟语气 六</string>
+	</array>
+	<key>5. 情态动词</key>
+	<array>
+		<string>情态动词 一</string>
+		<string>情态动词 二</string>
+		<string>情态动词 三</string>
+		<string>情态动词 四</string>
+		<string>情态动词 五</string>
+		<string>情态动词 六</string>
+		<string>情态动词 七</string>
+		<string>情态动词 八</string>
+		<string>情态动词 九</string>
+	</array>
+</dict>
+</plist>

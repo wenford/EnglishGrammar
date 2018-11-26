@@ -1,0 +1,63 @@
+Attributive Clause 定语从句
+
+定语从句的基本知识
+定义：用来说明主句中某一名词或代词（有时也可说明整个主句或主句中一部分）而起定语作用的句子叫做定语从句。
+简单地讲：定语从句就是修饰名词或代词的作定语的句子。大家要清楚一个概念，那就是它就相当于一个形容词，作后置定语，所以定语从句通常又被称为形容词性从句。可以解释为什么什么样的人或物。
+
+前置形容词的位置Op sh a c o m （记住这个无意义的单词）
+opinion shape age colour origin material   
+two very nice small French wooden chairs
+An interesting little red French oil painting
+
+定语从句的位置只能放在它所修饰词的后面，被修饰的词我们叫它“先行词”。	Tom, who is 17, is my classmate.
+ 		Tom is my classmate, who is 17.
+定语从句的结构:
+被修饰的名词 / 代词 + 关系词 + 从句
+"被修饰的名词/代词“ = "先行词"  
+这儿要强调的是先行词只能是名词或代词
+
+如上句中，Tom是先行词，who是关系词，who is 17是从句。
+“先行词”与“关系词”之间实质上是互等、互换的关系。关系词的作用就是将先行词所表达意义“代到”从句中来起作用。“先行词”往往是分别重复出现在两个句中(主句和从句)的名词或代词。先行词可以看成区别定语从句和名词性从句的标记。看以下两句：
+	That’s all that I have told him. 此句为定语从句，先行词为all
+	That’s what I have told him. 此句为表语从句，由what引导，没有先行词。
+	那为什么一定要有关系词呢？关系词可以看作是连接主句和从句的桥梁，它指代先行词在从句中充当一个句子成份。这就体现了英语句子的链形结构，英语的句子逻辑性很强，就象一环扣一环的链条。有了关系词，就把主句和从句紧紧地联系在了一起。比如下面这组句子：第二个句子中who把主从句连在了一起。
+The woman – she lives next door – is a doctor.
+The woman who lives next door is a doctor.
+
+  又如：
+	The girl is Mary. We saw her yesterday.
+	The girl – we saw her yesterday – is Mary.
+	The girl – her we saw yesterday – is Mary.
+	The girl who/whom/that we saw yesterday is Mary.
+关系词可分为关系代词和关系副词
+关系代词有who, which, that, whose(所有格), as
+关系副词有when, where, why
+特别注意：what不能引导定语从句，只能引导名词性从句。
+
+定语从句的分类: 限定、非限定
+限定性定语从句 (去掉定语,意义模糊)		对先行词进行限定、修饰
+		The man who is talking is Mary’s father.
+非限定性定语从句		对先行词进行补充、说明 
+   Tom, who is 17, is a good student. 
+	“,”是非限定性定语从句的标志。
+	
+	注意以下两组句子的区别：
+	The old man has a son, who is in the army.（他只有一个儿子，这个儿子在参军）
+	The old man has a son who is in the army.
+（他有一个参军的儿子。）可能不只一个儿子。
+	He said nothing that made her angry. 他没有说使她生气的话。
+	He said nothing, which made her angry. 他什么也没有说，这使她很生气。
+	特别注意：在非限定性定语从句中，不能用关系代词that
+	
+从句的特征
+我们撇开先行词和关系词后，再看剩下的从句，这个句子一定会缺少一个句子成份，而这个成份就是由先行词来充当的。比如：
+The man who is talking is Mary’s father.
+去掉关系词who, 剩下is talking，则缺少主语，这个主语也就是由who，即the man。从句补充完整就是The man is talking.
+再如：This is the reason why he was late.
+不看关系副词why, 剩下he was late 和句子原意再比，缺少原因状语。完整句子应该是：He was late for that reason.
+
+我们分析一个定语从句时，可以按以下三步来做：
+一. 先确定先行词，定语从句一定有先行词，并且只能由名词或代词（有时会是整个句子）来充当。
+二. 判断从句的起止，也就是从什么地方开始到什么地方结束，可以用括号括出。
+三. 判断先行词在从句中充当什么成份（或看先行词可以还原到从句什么位置，如果要加介词才能还原，则为状语，要用关系副词why, where, when或介词前置），以此确定关系词。这个步为关键。
+特别注意：分析时主句和从句要分开看，不能互相影响。
