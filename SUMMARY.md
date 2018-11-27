@@ -78,6 +78,8 @@
         * [分词的时态](Chapter1/分词的时态.md)
         * [分词的语态](Chapter1/分词的语态.md)
     * [独立主格](Chapter1/独立主格.md)
+        * [独立主格](Chapter1/独立主格.md)
+        * [With的复合结构作独立主格](Chapter1/With的复合结构作独立主格.md)
     * [动词的时态](Chapter1/动词的时态.md)
     * [动词的语态](Chapter1/动词的语态.md)
     * [句子的种类](Chapter1/句子的种类.md)
