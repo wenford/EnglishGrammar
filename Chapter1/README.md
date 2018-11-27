@@ -9,7 +9,7 @@
 * [分词](Chapter1/分词.md)
 * [独立主格](Chapter1/独立主格.md)
 * [动词的时态](Chapter1/动词的时态.md)
-* [动词的语态](Chapter1/动词的语态.md)
+* [动词的语态](Chapter1/动词的语态.md)
 * [句子的种类](Chapter1/句子的种类.md)
 * [倒装](Chapter1/倒装.md)
 * [主谓一致](Chapter1/主谓一致.md)
