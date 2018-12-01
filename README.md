@@ -15,4 +15,4 @@
 本电子书以MIT协议开源
 
 ##### 其他说明
-本电子书为学习材料，希望给大家帮助。本电子书以markdown编写，用到了gitbook，你可以用gitbook导出mobi，epub，pdf等格式，你导出的mobi可以用京东阅读手机观看。
+本电子书为学习材料，希望给大家帮助。本电子书以markdown编写，用到了gitbook，你可以用gitbook导出mobi，epub，pdf等格式，你导出的mobi可以用京东阅读手机观看。更多工具使用打开[how_to_edit](how_to_edit.md)。
